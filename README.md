@@ -1,6 +1,6 @@
-# 成分查查 · Drink Ingredient Check
+# 饮品成分查询 · Drink Ingredient Check
 
-> 页面标题：饮品知多少。把货架上每瓶饮料的成分表摊开来算分——糖、钠、咖啡因、甜味剂、添加剂、水质逐项拆开，最后告诉你这一杯要不要留意。
+> 把货架上每瓶饮料的成分表摊开来算分——糖、钠、咖啡因、甜味剂、添加剂、水质逐项拆开，最后告诉你这一杯要不要留意。
 
 **在线访问：<https://mayue-labs.github.io/drink-ingredient-check/>**
 
